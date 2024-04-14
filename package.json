@@ -1,0 +1,7 @@
+{
+  "name": "typescript-userList",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Piotr Węgłowski <weglowskipiotr@gmail.com>",
+  "license": "MIT"
+}
