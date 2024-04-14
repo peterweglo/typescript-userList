@@ -3,5 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Piotr Węgłowski <weglowskipiotr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "consola": "^3.2.3",
+    "inquirer": "^8.2.6",
+    "nodemon": "^2.0.20",
+    "ts-node": "^8.10.2"
+  },
+  "scripts": {
+    "watch": "nodemon"
+  }
 }
